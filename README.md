@@ -2,7 +2,7 @@
 
 Do you want to play ?
 
-[Click here](http://cluedo-brainyfools.herokuapp.com/)
+[Click here](https://cluedo-brainyfools.herokuapp.com/)
 
 
 # Contributing guidelines
